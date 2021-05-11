@@ -1,0 +1,2 @@
+BookMarkMate is a personal project created for developing my skills with web development.
+The website allows users to save bookmarks with tags to categorize them and allow for easier access, and also search functions to streamline access to saved bookmarks.
